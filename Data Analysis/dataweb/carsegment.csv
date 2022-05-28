@@ -1,0 +1,11 @@
+Car Segment,LENGTH of car(nm),Price Of car,Examples
+A,3400,Hatchbacks Less than 3.5 Lakh,"Alto, Nano"
+A1,4000,Hatchbacks Less than 6 Lakh,"Ritz, Grand i10"
+A2,4500,Between 6-7.5 Lakh,Elite i20
+B1,4700,Vans,Eeco
+B2,5000,MUV/MPV,"Innova, Bolero"
+C1,6000,Sedans less than 8 Lakh,"Amaze, Xcent"
+C2,6500,Sedans less than 9.5 Lakh,"City, Ciaz"
+D1,6700,Sedans less than 15 Lakh,"Cruze, Elantra"
+D2,6800,Sedans less than 25 Lakh,Superb
+SUV,6900,SUV,"Fortuner, XUV 500"
