@@ -49,6 +49,13 @@ Linear regression
 16.Implementation and development a Web App
 17.Communicate Result
 
+# Some Screenshot of Website--
+![Screenshot 2022-05-29 020145](https://user-images.githubusercontent.com/89336758/170876102-ed9f63f6-c6ea-419f-9182-20b5f859243b.png)
+![Screenshot 2022-05-29 020410](https://user-images.githubusercontent.com/89336758/170876161-d0e21cc0-2b3e-4962-a167-136ef767af7c.png)
+![Screenshot 2022-05-29 020512](https://user-images.githubusercontent.com/89336758/170876166-f288bdd1-d287-46d6-bf73-8d0121748adb.png)
+
+
+
 # Demo video link of this project;--
 
 https://www.awesomescreenshot.com/video/9153323?key=1d5121a248909ecf1d8f2cb68f372949
