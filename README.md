@@ -1,8 +1,6 @@
 # Microsoft Engage program 2022
 
- This is a project Challenges of Microsoft engage program 2022 I have selected second project Which was Data analysis so 
-Project are ---
- Data-Analysis of Automotive industry 
+This project is given under the Microsoft Engage Pragram 2022,which analysis data of Automative Industry.
 
 # Data-Analysis of Automotive industry 
 Problems Statement
@@ -16,16 +14,16 @@ data to take informed decisions.
    
 
 # Requirements
-Python3
-numpy
-pytorch
-torchvision
-scikit-learn
-matplotlib
-pillow
-torch (pytorch)
-torchvision
-Linear regression
+Python3,
+numpy,
+pytorch,
+torchvision,
+scikit-learn,
+matplotlib,
+pillow,
+torch (pytorch),
+torchvision,
+Linear regression,
 
 
 # Some steps followed by me to solve the problem—
@@ -40,14 +38,14 @@ Linear regression
 7. Data Visulaisation
 8. Statistical analysis
 9. Data preparation
-10.Data cleaning 
-11.Spliting the Data and Features Scaling
-12.Buliding a Linear regression Model
-13.Model Evaluation 
-14.Consists Reviews of Other sites
-15.Analysing the Car Segments( A1,A2…….)
-16.Implementation and development a Web App
-17.Communicate Result
+10. Data cleaning 
+11. Spliting the Data and Features Scaling
+12. Buliding a Linear regression Model
+13. Model Evaluation 
+14. Consists Reviews of Other sites
+15.  Analysing the Car Segments( A1,A2…….)
+16. Implementation and development a Web App
+17. Communicate Result
 
 # Some Screenshot of Website--
 ![Screenshot 2022-05-29 020145](https://user-images.githubusercontent.com/89336758/170876102-ed9f63f6-c6ea-419f-9182-20b5f859243b.png)
